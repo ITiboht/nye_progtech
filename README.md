@@ -1,4 +1,4 @@
 # nye_progtech
 Repository for progtech class
 
-#Best uni class ever
+# Best uni class ever
